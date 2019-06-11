@@ -9,7 +9,7 @@ To train the network, *the neural network has to be given a data for training.* 
 - [ ] Chest X-Ray
 
 
-For now, I wanted to **update previous undocumented projects**, that where originally *written in the lower version of tensorflow and keras.* Further projects will be coming soon. Here are some mini-projects or competition that interests me ahead.
+For now, I wanted to **update previous undocumented projects** that where originally *written in the lower version of tensorflow and keras.* Further projects will be coming soon. Here are some mini-projects or competition that interests me ahead.
 - [ ] None yet
 
 These projects is the authors way of fast implementing deep learning with the use of tensorflow 2.0. 
