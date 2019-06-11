@@ -20,6 +20,6 @@ These projects is the authors way of fast implementing deep learning with the us
 A good understanding of artificial neural network will help you navigate throughout the documentation. In addition, python skillset must be at near intermediate for understanding the structure of the program. 
 
 ### Installation
-In order to use this repository you must have [Anaconda](https://www.anaconda.com/distribution/) and deep learning framework for the project is tensorflow version 2.0. Again, These projects are previous undocumented projects. 
+In order to use this repository you must have [Anaconda](https://www.anaconda.com/distribution/) and deep learning framework for the project is tensorflow version 2.0. As recommended, you can do the projects in kaggle's kernel notebook since the data will be also provided by the site.
 
 **Download or commit** the repository. You can find and access the data in kaggle. *Follow along the notebook and you can navigate through the end.* I suggest to **download the project and upload the notebook in kaggle.**
