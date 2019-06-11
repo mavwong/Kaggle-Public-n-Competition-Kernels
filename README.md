@@ -4,8 +4,8 @@ These projects are based on the topic deep learning. Deep Learning is a subset o
 
 To train the network, *the neural network has to be given a data for training.* Kaggle has a huge library of data for the neural network to train on. Here are some data that was used to **train neural network.**
 - [ ] MNIST (Reference Code)
-- [ ] Dogs and Cats Classifier
-- [ ] Histopathologic Cancer Detection
+- [ ] Dogs and Cats 
+- [ ] Histopathologic Cancer
 - [ ] Chest X-Ray
 
 
