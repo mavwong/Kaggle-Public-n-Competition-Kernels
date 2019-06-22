@@ -10,4 +10,4 @@ Initial model was written in the high level framework keras. Now, we use tensorf
   
 
 ## Instructions
-Run through each cell of the notebook. I suggest to run the notebook in kaggle which holds the data for the project.
+Run through each cell of the notebook. I suggest to run the notebook in kaggle which holds the data for the project. Link Here.
