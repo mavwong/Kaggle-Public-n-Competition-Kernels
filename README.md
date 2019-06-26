@@ -1,8 +1,9 @@
 # Kaggle Kernels
 ## 1. Project Details:
-These projects are based on the topic deep learning. Deep Learning is a subset of machine learning where the networks of intelligence are being trained to predict and classify information, based on linear algebra, to obtain optimal results. The networks of intelligence was inspired by our biological system called the human brain, where information processing or training is involved. Many of the educators today used this analogy. In the industry, this networks of intelligence are mainly called **artificial neural network.**
+These projects are based on the topic deep learning. Deep Learning is a subset of machine learning where the networks of intelligence are being trained to predict and classify information to obtain optimal results. The networks of intelligence was inspired by our biological system where information processing or training is involved. Many of the educators today used this analogy. In the industry, this networks of intelligence are mainly called **artificial neural network.**
 
-To train the network, *the neural network has to be given a data for training.* Kaggle has a huge library of data for the neural network to train on. Here are some data that was used to **train neural network.** (Checked if the following is updated in TF 2.0)
+To train the network, *the neural network has to be given a data for training.* Kaggle has a huge library of data for the neural network to train on. Although some dataset are installed in tensorflow 2.0 already. Here are some data that was used to **train neural network.** (Checked if the following is updated in TF 2.0)
+
 - [x] MNIST
 - [ ] Dogs and Cats 
 - [x] Histopathologic Cancer
