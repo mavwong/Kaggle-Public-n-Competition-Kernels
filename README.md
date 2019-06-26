@@ -23,4 +23,4 @@ A good understanding of artificial neural network will help you navigate through
 ### Installation
 In order to use this repository you must have [Anaconda](https://www.anaconda.com/distribution/) and deep learning framework for the project is tensorflow version 2.0. As recommended, you can do the projects in kaggle's kernel notebook since the data will be also provided by the site.
 
-**Download or commit** the repository. You can find and access the data in kaggle. *Follow along the notebook and you can navigate through the end.* I suggest to **download the project and upload the notebook in kaggle.**
+**Download or commit** the repository. You can find and access the data in kaggle or some data are found in tensorflow's main library. *Follow along the notebook and you can navigate through the end.* I suggest to **download the project and upload the notebook in kaggle.**
