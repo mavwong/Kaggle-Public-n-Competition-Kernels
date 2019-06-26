@@ -5,7 +5,7 @@ The project is to create an deep learning algorithm to identify or classify the 
 
 The deep learning framework is written in Tensorflow 2.0.
 
-## Program Features (What's new to the author)
+### Program Features (What's new to the author)
 - Data Processing
 - Tensorflow 2.0
 - Transfer Learning
