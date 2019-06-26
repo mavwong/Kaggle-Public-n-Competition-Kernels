@@ -5,7 +5,7 @@ These projects are based on the topic deep learning. Deep Learning is a subset o
 To train the network, *the neural network has to be given a data for training.* Kaggle has a huge library of data for the neural network to train on. Although some dataset are installed in tensorflow 2.0 already. Here are some data that was used to **train neural network.** (Checked if the following is updated in TF 2.0)
 
 - [x] MNIST
-- [ ] Dogs and Cats 
+- [x] Dogs and Cats 
 - [x] Histopathologic Cancer
 - [ ] Chest X-Ray
 
